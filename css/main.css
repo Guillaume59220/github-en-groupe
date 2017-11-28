@@ -289,9 +289,17 @@ textarea {
         page-break-after: avoid;
     }
 }
+ .carousel-inner>.item>img{
+
+    height: 300px;
+    width: 300px;
+    position: center;
+} 
+=======
 
 
 header .navbar{
     background-color: blue;
 }
+
 
