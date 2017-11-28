@@ -289,3 +289,9 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+
+header .navbar{
+    background-color: blue;
+}
+
